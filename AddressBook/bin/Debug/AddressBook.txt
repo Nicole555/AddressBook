@@ -1,0 +1,5 @@
+Νικολέττα|Μιχοπούλου|6988766253|n.michopoulou@hotmail.com|Παπάγου 32|Greece|3/3/1996|
+Χρύσα|Χρονοπούλου|6983249328|cchronopoulou@hotmail.com|Πριάμου 4|Greece|9/1/1993|
+Τζωρτζίνα|Δημοπούλου|6849328982|geodimopoulou@hotmail.com|Ελπίδος 30|Greece|18/5/1995|
+Νικολέττα|Μαράζα|6938249284|nicolemaraza@hotmail.com|Θουκιδίδου 30|Greece|25/11/1996|
+Δημήτρης |Λουκρέζης|6928349284|dimloukr@gmail.com|Γρηγορίου Λαμπράκη 12|Greece|16/11/2015|
